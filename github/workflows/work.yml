@@ -47,4 +47,4 @@ jobs:
           pip install pytest
       - name: Testing with pytest
         run: |
-          pytest project.py
+          pytest
